@@ -1,6 +1,6 @@
-PIT Phase 1 Submission for: Team-Ben
+# PIT Phase 1 Submission for: Team-Ben 
 
-# Project Desctiption: Cross-chain voting/NFT app
+## Cross-chain voting/NFT app
 
 This app enables cross-chain minting of an NFT contract corresponding to a vote cast on the ballot contract on the counterparty. Therefore we **make the contracts IBC enabled** by implementing the [`IbcReceiver` interface](https://github.com/open-ibc/vibc-core-smart-contracts/blob/main/contracts/IbcReceiver.sol) as specified by the vIBC protocol.
 
@@ -50,4 +50,4 @@ Again check the dispatcher for evidence of succesful completion of the packet li
 
 
 ## Proof of Our Interaction with Polymer
-  SCREENSHOTS
+  [Video](https://www.loom.com/share/ac7ec5e3cd8045f28f95596a6e0945b3)
