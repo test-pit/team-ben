@@ -4,8 +4,6 @@ This app enables cross-chain minting of an NFT contract corresponding to a vote 
 
 ## Steps to interact with the dApp
 
-Follow these steps to test the dApp.
-
 ### Install dependencies & update config
 
 When cloning the git repository, do:
