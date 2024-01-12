@@ -2,7 +2,7 @@
 
 This app enables cross-chain minting of an NFT contract corresponding to a vote cast on the ballot contract on the counterparty. Therefore we **make the contracts IBC enabled** by implementing the [`IbcReceiver` interface](https://github.com/open-ibc/vibc-core-smart-contracts/blob/main/contracts/IbcReceiver.sol) as specified by the vIBC protocol.
 
-### Steps to interact with the dApp
+## Steps to interact with the dApp
 
 Follow these steps to test the dApp.
 
